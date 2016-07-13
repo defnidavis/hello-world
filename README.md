@@ -2,4 +2,4 @@
 Just another repository
 
 Hi 
-Gothub is wonderful
+Github is wonderful
